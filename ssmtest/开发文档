@@ -1,0 +1,4 @@
+1、创建maven项目，搭建好ssm项目结构
+2、配置pom.xml
+2、在resources配置log4j.properties\
+    jdbc.porperties\applicationContext.xml\spring-mvc.xml
