@@ -1,0 +1,43 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #EEF2FB;
+}
+
+.tab_border {
+	font-size: 13px;
+	border:1px solid #d2dff2;
+	
+	
+	
+}
+a,a:visited{color:#0461d0; text-decoration:none;}
+a:hover{color:#90019d; text-decoration:none;}
+.tab_border td {
+	font-size: 13px;
+	color:#15428b;
+	border:1px solid #d2dff2;
+}
+.tab_page{
+   font-size: 13px;
+}
+ .tab_page_td{
+   text-align: center;
+	font-size: 13px;
+}
+
+img {
+	margin: 0 0 0 0;
+	border: 0px;
+}
+.title{
+  
+  font-size:14px;
+  font-weight:bold;
+  color:#15428b;
+  background-color:#d2dff2;
+  height:26px;
+  
+}
