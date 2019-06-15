@@ -1,0 +1,10 @@
+1、搭建Maven项目框架
+2、修改项目整体结构
+3、配置pom.xml
+    <!--添加mysql依赖-->
+    <!--添加Mybatis依赖-->
+4、配置application.yml文件
+5、配置config的MyBatisConfig.java
+6、配置model的User.java
+7、配置dao/service/impl/controller
+8、打包Tomcat或直接运行
